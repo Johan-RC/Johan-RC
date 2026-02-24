@@ -47,10 +47,9 @@
 ## 📊 Analytics del perfil
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Johan-RC&show_icons=true&theme=dark-green&hide_border=true" alt="github stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johan-RC&layout=compact&theme=dark-green&hide_border=true" alt="top langs"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Johan-RC&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johan-RC&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" />
 </p>
-
 ---
 
 ## 🐍 Contribución (Snake / Activity)
