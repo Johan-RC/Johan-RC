@@ -1,3 +1,11 @@
+<!--
+CONFIG
+FULL_NAME: Johan Steven Rodriguez Charry
+GITHUB_USER: Johan-RC
+EMAIL: rodriguezcharryjohansteven@gmail.com
+CODE_ORGANIZATION: code-sena
+-->
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=42&color=00FF41&center=true&vCenter=true&width=900&lines=Access+Granted+%7C+Hola%2C+soy+Johan+Steven+Rodriguez;Full+Stack+Developer+%7C+Frontend-Focused;Building+Interfaces+%26+APIs" alt="Title"/>
 </div>
