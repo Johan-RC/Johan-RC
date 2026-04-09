@@ -1,3 +1,11 @@
+<!--
+CONFIG
+FULL_NAME: Johan Steven Rodriguez Charry
+GITHUB_USER: Johan-RC
+EMAIL: rodriguezcharryjohansteven@gmail.com
+CODE_ORGANIZATION: code-sena
+-->
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=42&color=00FF41&center=true&vCenter=true&width=900&lines=Access+Granted+%7C+Hola%2C+soy+Johan+Steven+Rodriguez;Full+Stack+Developer+%7C+Frontend-Focused;Building+Interfaces+%26+APIs" alt="Title"/>
 </div>
@@ -10,11 +18,11 @@
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="36px" height="36px"> Acerca de mí
 
-* 🧑‍💻 **Rol:** Full Stack Developer — *más enfocado en Front-end*
-* 🎯 **Especialidad:** Interfaces reactivas, accesibilidad y optimización de rendimiento
-* ⚙️ **Stack preferido:** React, JavaScript, HTML, CSS / Tailwind — complementado con backend en Spring Boot y .NET
-* 🌐 **Estilo:** Minimal + Cyberpunk — UI limpias con toques visuales llamativos (neón verde / terminal)
-* 💡 **Misión:** Entregar producto con UX pulida y API seguras y escalables
+- 🧑‍💻 **Rol:** Full Stack Developer — *más enfocado en Front-end*  
+- 🎯 **Especialidad:** Interfaces reactivas, accesibilidad y optimización de rendimiento  
+- ⚙️ **Stack preferido:** React, JavaScript, HTML, CSS / Tailwind — complementado con backend en Spring Boot y .NET  
+- 🌐 **Estilo:** Minimal + Cyberpunk — UI limpias con toques visuales llamativos (neón verde / terminal)  
+- 💡 **Misión:** Entregar producto con UX pulida y API seguras y escalables
 
 ---
 
@@ -38,19 +46,18 @@
 
 ## 🔥 Proyectos destacados
 
-* **Library Management System** — Frontend React + Backend Spring Boot. Roles (Admin/Client), autenticación y CRUD completo.
-* **Vehicle Management System** — Lógica OOP con validaciones, correcto manejo de entidades y pruebas unitarias.
-* **Model Security (.NET)** — Arquitectura por capas, enfoque en seguridad, inyección de dependencias y buenas prácticas.
+- **Library Management System** — Frontend React + Backend Spring Boot. Roles (Admin/Client), autenticación y CRUD completo.  
+- **Vehicle Management System** — Lógica OOP con validaciones, correcto manejo de entidades y pruebas unitarias.  
+- **Model Security (.NET)** — Arquitectura por capas, enfoque en seguridad, inyección de dependencias y buenas prácticas.
 
 ---
 
 ## 📊 Analytics del perfil
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Johan-RC&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johan-RC&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Johan-RC&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johan-RC&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" />
 </p>
-
 ---
 
 ## 🐍 Contribución (Snake / Activity)
@@ -65,10 +72,10 @@
 
 ## ✨ Animaciones y estética
 
-* Tipografía terminal animada (typing).
-* Cabeceras con banner estilo neón (capsule-render).
-* Badges y skillicons para impacto visual.
-* GIFs pequeños para dinamizar secciones.
+- Tipografía terminal animada (typing).  
+- Cabeceras con banner estilo neón (capsule-render).  
+- Badges y skillicons para impacto visual.  
+- GIFs pequeños para dinamizar secciones.
 
 ---
 
@@ -76,16 +83,26 @@
 
 <p align="center">
   <a href="mailto:TU_EMAIL_AQUI">
-    <img alt="email" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="28"/>
+    <img alt="email" src="https://raw.githubusercontent.com/SatYu26/SatYu26/master/Assets/Gmail.svg" width="28"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/TU_LINKEDIN_AQUI" target="_blank">
-    <img alt="linkedin" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="28"/>
+    <img alt="linkedin" src="https://raw.githubusercontent.com/SatYu26/SatYu26/master/Assets/Linkedin.svg" width="28"/>
   </a>&nbsp;&nbsp;
   <a href="https://github.com/Johan-RC" target="_blank">
-    <img alt="github" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="28"/>
+    <img alt="github" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" width="28"/>
   </a>
 </p>
 
 > Reemplaza `TU_EMAIL_AQUI` y `TU_LINKEDIN_AQUI` por tus datos reales.
 
 ---
+
+## 💬 Frase del sistema (modo terminal)
+
+```bash
+while(alive) {
+  design();
+  code();
+  test();
+  iterate();
+}
